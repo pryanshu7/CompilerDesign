@@ -40,6 +40,6 @@ exit(0); }
 break; }
 } 
 if(s==0) 
-printf("String accepted");
+printf("\n\nString accepted\n\n");
 else 
-printf("String not accepted"); } 
+printf("\n\nString not accepted\n\n"); } 
